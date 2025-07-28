@@ -1,0 +1,52 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+game
+*.exe
+*.out
+*.app
+
+# Build directories
+build/
+bin/
+obj/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Dependency directories
+vendor/
+lib/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Core dumps
+core
+vgcore.*
+
+# Backup files
+*.bak
+*.backup
+
+# Package files
+*.tar
+*.tar.gz
+*.zip
+*.7z
+*.rar
